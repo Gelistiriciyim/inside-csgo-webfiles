@@ -1,3 +1,3 @@
 # inside-csgo-webfiles
 :) 
-[![Watch the video](https://img.youtube.com/vi/oETRs9JGoqomaxresdefault.jpg)](https://youtu.be/oETRs9JGoqo)
+[![Watch the video](https://i.ytimg.com/vi/oETRs9JGoqo/maxresdefault.jpg)](https://youtu.be/oETRs9JGoqo)
